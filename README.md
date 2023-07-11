@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastian Aguzzi</h1>
 <h3 align="center">Full-Stack developer from Pergamino, Argentina.</h3>
+<p>🙋🏻‍♂️ I'm passionate about programming, learning different languages, and taking on challenging tasks to continue growing in my career. Currently, I'm learning MongoDB and TypeScript to stay up-to-date with the latest trends in software development.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebaguzzi&label=Profile%20views&color=0e75b6&style=flat" alt="sebaguzzi" /> </p>
 
